@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "1eb4f0ce97204dde5c2a95a3",
+  "owner": "espdhy",
+  "repo": "page-2f53f22f959ea9065d11753d",
+  "title": "界门云(Jiemen)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "2f53f22f959ea9065d11753d",
+      "a": "界门云(Jiemen)",
+      "b": "2027最新官网",
+      "entity": "界门云(Jiemen)",
+      "brand": "界门云(Jiemen)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "483360a6189d6e78724556f4169487ce89cfb7323c6e7741c8d1fcc821e4684c",
+      "content": {
+        "primary_entity": "界门云(Jiemen)",
+        "keyword1": "界门云(Jiemen)",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_DESCRIPTION": "，围绕海外加速场景提供基础版、旗舰版与团队版三档订阅，月流量从 100GB 到 1000GB，可同时在线设备从 3 台到 20 台，年付价格为 ¥150、¥350、¥850。选出适合自己设备数与流量的档位后，按客户端文档导入订阅即可开始使用。",
+          "AI_HERO_SUBTITLE": "三档订阅覆盖多设备加速",
+          "AI_HERO_INTRO": "界门云(Jiemen)提供基础版、旗舰版与团队版三档海外加速订阅，分别对应 100GB、300GB、1000GB 月流量和 3 台、5 台、20 台设备同时在线。旗舰版与团队版额外提供专线或高带宽节点，适合对延迟和带宽有更高要求的用户。",
+          "AI_VISUAL_TITLE": "界门云三档订阅",
+          "AI_HIGHLIGHT_1": "月流量 100GB 起",
+          "AI_HIGHLIGHT_2": "最多 20 台设备同时在线",
+          "AI_HIGHLIGHT_3": "年付低至 ¥150",
+          "AI_FEATURES_TITLE": "特点与选择",
+          "AI_FEATURES_INTRO": "从流量、设备数和线路三个维度对比三档订阅。",
+          "AI_FEATURE_TITLE_1": "按流量档位选择",
+          "AI_FEATURE_TEXT_1": "基础版 100GB、旗舰版 300GB、团队版 1000GB，按月计费，超出可升级。",
+          "AI_FEATURE_TITLE_2": "按设备数量选择",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台，旗舰版支持 5 台，团队版支持 20 台设备同时在线。",
+          "AI_FEATURE_TITLE_3": "按订阅周期选择",
+          "AI_FEATURE_TEXT_3": "年付分别为 ¥150、¥350、¥850，比按月付节省约两个月费用。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "Windows、macOS、Android、iOS 与路由器等平台可按需选择对应客户端。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版适合少量设备轻度使用，旗舰版多设备与流媒体优先，团队版面向高流量多终端。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_GUIDE_INTRO": "按选择套餐、确认设备适配、导入订阅三步完成配置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据月流量与同时在线设备数，在基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TITLE_2": "确认适配",
+          "AI_STEP_TEXT_2": "查看所用系统是否有对应客户端，并确认设备数量不超过所选档位。",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_STEP_TEXT_3": "在客户端中按文档导入订阅链接，更新节点后即可连接使用。",
+          "AI_CLOSING_TITLE": "选对档位轻松加速",
+          "AI_CLOSING_TEXT": "对比三档订阅后选择适合的设备数与流量，按客户端文档完成订阅导入。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量，支持 3 台设备同时在线；旗舰版每月 300GB，支持 5 台设备；团队版每月 1000GB，支持 20 台设备。按年付分别只需 ¥150、¥350 与 ¥850，可按人数与流量选择。",
+          "AI_FAQ_ANSWER_2": "在客户端中导入订阅链接即可，不同客户端导入方式略有差异。Windows 与 macOS 常用 Clash Verge 等工具，iOS 与 Android 也有对应客户端，按客户端文档操作即可完成。",
+          "AI_FAQ_ANSWER_3": "建议先确认需要同时在线的设备数量。基础版最多 3 台，旗舰版 5 台，团队版 20 台，再结合月流量预算选择，超出设备数无法同时使用。",
+          "AI_FAQ_ANSWER_4": "按年付比月付更省，基础版年付 ¥150、旗舰版年付 ¥350、团队版年付 ¥850。如果长期使用且流量需求稳定，年付是比较划算的选择。",
+          "AI_FAQ_ANSWER_5": "旗舰版提供 IPLC 专线游戏加速优化与 7×24 优先工单支持，并支持全节点原生流媒体解锁；基础版为普通线路节点池，适合日常浏览与影音需求。",
+          "AI_FAQ_QUESTION_1": "界门云三档套餐有什么区别？",
+          "AI_FAQ_QUESTION_2": "如何在自己的设备上导入订阅？",
+          "AI_FAQ_QUESTION_3": "怎么判断该选基础版还是旗舰版？",
+          "AI_FAQ_QUESTION_4": "按年付和按月付相差多少？",
+          "AI_FAQ_QUESTION_5": "旗舰版的 IPLC 专线适合什么场景？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--9kqy4sc0nznj8ic.com",
+    "host": "xn--9kqy4sc0nznj8ic.com"
+  },
+  "file_hashes": {
+    "index.html": "efa15312178e3becf83c885c8c5f77ac790192cc6d1350f9b682846d066f1a86",
+    "sitemap.xml": "52a30cc62ec66ccf15914d21a88ea9d7e6ecc4667572dde3aeaa1b46fe8f1ab5",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "222aeb73c9e4b605bcc11ea7bebc161c877aa07ced47788c6656d1ed0efbf127",
+    "robots.txt": "33889756fac9055adbba0951c2a52e5b358f6d8507fd8849ec4dcd13de69c87f",
+    "9911d0ef17cfe2646ae3c69200e2e578.txt": "0bbdca368b4c4e82a536cc83d13ae09be4e48605dd5d046498baf415692dbf0e"
+  },
+  "revision": "66265b024975db6b9958d3934bc9431c32f8908c36691f478f996444dd68d812"
+}
